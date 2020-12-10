@@ -12,7 +12,7 @@ In this notebook I learn Simple Linear Regression in depth. I cover the concept 
 * Stats Model
 * Gradient Descent
 
-### Avtivity 4 - Multiple Linear Regression 
+### Activity 4 - Multiple Linear Regression 
 In this activity I learn in depth about Multiple Linear Regression. I use multiple methods to apply the algorithm and then evaluate those methods. The methods I use are 
 * Sci-kit Learn
 * Backward Selection
